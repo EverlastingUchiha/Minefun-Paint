@@ -135,7 +135,7 @@ The panel can be dragged by its header and resized from the bottom‑right corne
 ## Credits
 
 - **Developer:** Itz_Krishna (also known as Everlasting)
-- **Discord support:** Link available inside the **Info** tab of the tool.
+- **Discord Server:** [Join our Discord](https://discord.gg/byXxUkZxag)
 
 ---
 

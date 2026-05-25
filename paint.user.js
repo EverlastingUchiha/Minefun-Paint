@@ -6,6 +6,7 @@
 // @author       Itz_Krishna AKA Everlasting
 // @match        https://minefun.io/*
 // @match        https://*.minefun.io/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=minefun.io
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
